@@ -4,7 +4,8 @@ Ce github codespace vous permettra de développer le modèle statistique qui tra
 
 ## Pour installer Python 
 
-Aller dans les extensions et installer Python
+VS Code va vous demander si vous voulez installer Python. Acceptez et le tour est joué.
+Sinon, vous pouvez aller dans les extensions 🧩, chercher Python, l'installer puis l'activer. 
 
 ## Pour installer R 
 
